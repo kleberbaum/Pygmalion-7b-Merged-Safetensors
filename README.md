@@ -11,7 +11,7 @@ inference: false
 <h1 style="text-align: center">Pygmalion 7B</h1>
 <h2 style="text-align: center">A conversational LLaMA fine-tune.</h2>
 
-## Model Details
+## Model Details:
 
 Pygmalion 7B is a dialogue model based on Meta's LLaMA-7B.
 
